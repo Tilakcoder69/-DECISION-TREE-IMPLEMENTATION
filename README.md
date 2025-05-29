@@ -29,3 +29,6 @@ In summary, the project served as an excellent demonstration of integrating mach
 ##
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/166ff1d4-401d-401c-b7a4-9c8290105db9)
+![Image](https://github.com/user-attachments/assets/f5777fb0-78fa-47ae-9d03-e7d6ce3e8d20)
+![Image](https://github.com/user-attachments/assets/38d5d933-c364-44e6-b899-1c90f4b54ab3)
